@@ -1,0 +1,234 @@
+[
+  {
+    "toy_name": "JOkER",
+    "seller_name": "Shahriar Abir",
+    "email": "shahriarbhuiyan1@gmail.com",
+    "photo_url": "https://m.media-amazon.com/images/I/61k75yi8qgL.jpg",
+    "price": "40",
+    "rate": "5",
+    "available": "5",
+    "category": "darknight",
+    "description": "Superhero mani e Dc"
+  },
+  {
+    "toy_name": "Cybor",
+    "seller_name": "Shahriar Abir",
+    "email": "shahriarbhuiyan1@gmail.com",
+    "photo_url": "https://m.media-amazon.com/images/I/71W1Y1Ml0uL.jpg",
+    "price": "20",
+    "rate": "4",
+    "available": "50",
+    "category": "justice",
+    "description": "Superhero mani e Dc"
+  },
+  {
+    "toy_name": "SuperMan",
+    "seller_name": "Shahriar Bhuiyan",
+    "email": "shahriarbhuyian@gmail.com",
+    "photo_url": "https://media.gamestop.com/i/gamestop/11169955/McFarlane-Toys-DC-Multiverse-Batman-The-Dark-Knight-Returns-Superman-7-in-Action-Figure",
+    "price": "20",
+    "rate": "4",
+    "available": "50",
+    "category": "justice",
+    "description": "Superhero mani e Dc"
+  },
+
+  {
+    "toy_name": "Batman",
+    "seller_name": "Shahriar Abir",
+    "email": "shahriarbhuiyan1@gmail.com",
+    "photo_url": "https://i5.walmartimages.ca/images/Large/315/296/6000205315296.jpg",
+    "price": "30",
+    "rate": "4",
+    "available": "50",
+    "category": "darknight",
+    "description": "Superhero mani e Dc"
+  },
+  {
+    "toy_name": "Flash",
+    "seller_name": "Shahriar Bhuiyan",
+    "email": "shahriarbhuyian@gmail.com",
+    "photo_url": "https://m.media-amazon.com/images/I/71EXvMeB0iL.jpg",
+    "price": "25",
+    "rate": "5",
+    "available": "150",
+    "category": "justice",
+    "description": "Superhero mani e Dc"
+  },
+  {
+    "toy_name": "Wonder Women",
+    "seller_name": "Shahriar Abir",
+    "email": "shahriarbhuiyan1@gmail.com",
+    "photo_url": "https://m.media-amazon.com/images/I/61wNtIqSfTL.jpg",
+    "price": "25",
+    "rate": "4",
+    "available": "150",
+    "category": "justice",
+    "description": "Superhero mani e Dc"
+  },
+  {
+    "toy_name": "Aquaman",
+    "seller_name": "Shahriar Bhuiyan",
+    "email": "shahriarbhuyian@gmail.com",
+    "photo_url": "https://www.spinmaster.com/static/0d70046a1f8ac22431960cf146141e37/f1571/mlvvsnb822r2fxfu9dbn.jpg",
+    "price": "15",
+    "rate": "4",
+    "available": "25",
+    "category": "justice",
+    "description": "Superhero mani e Dc"
+  },
+  {
+    "toy_name": "Green Lantern",
+    "seller_name": "Shahriar Abir",
+    "email": "shahriarbhuiyan1@gmail.com",
+    "photo_url": "https://m.media-amazon.com/images/I/41wwNpml2fL.jpg",
+    "price": "20",
+    "rate": "4",
+    "available": "50",
+    "category": "justice",
+    "description": "Superhero mani e Dc"
+  },
+  {
+    "toy_name": "Shazam",
+    "seller_name": "Shahriar Abir",
+    "email": "shahriarbhuiyan1@gmail.com",
+    "photo_url": "https://m.media-amazon.com/images/I/71QxeIhnG8L.jpg",
+    "price": "20",
+    "rate": "4",
+    "available": "50",
+    "category": "magic",
+    "description": "Superhero mani e Dc"
+  },
+  {
+    "toy_name": "Super Girl",
+    "seller_name": "Shahriar Bhuiyan",
+    "email": "shahriarbhuyian@gmail.com",
+    "photo_url": "https://c1-ebgames.eb-cdn.com.au/merchandising/images/packshots/316a005e13734a628b74dc27033d1d32_Large.jpg",
+    "price": "20",
+    "rate": "4",
+    "available": "50",
+    "category": "justice",
+    "description": "Superhero mani e Dc"
+  },
+  {
+    "toy_name": "Nightwing",
+    "seller_name": "Shahriar Abir",
+    "email": "shahriarbhuiyan1@gmail.com",
+    "photo_url": "https://m.media-amazon.com/images/I/61unHaAvARL.jpg",
+    "price": "20",
+    "rate": "4",
+    "available": "50",
+    "category": "darknight",
+    "description": "Superhero mani e Dc"
+  },
+  {
+    "toy_name": "Batgirl",
+    "seller_name": "Shahriar Bhuiyan",
+    "email": "shahriarbhuyian@gmail.com",
+    "photo_url": "https://media.gamestop.com/i/gamestop/11178703/McFarlane-Toys-DC-Multiverse-Batgirl-7-in-Action-Figure",
+    "price": "20",
+    "rate": "4",
+    "available": "50",
+    "category": "darknight",
+    "description": "Superhero mani e Dc"
+  },
+  {
+    "toy_name": "Robin",
+    "seller_name": "Shahriar Abir",
+    "email": "shahriarbhuiyan1@gmail.com",
+    "photo_url": "https://m.media-amazon.com/images/I/71p28qzrvVL.jpg",
+    "price": "35",
+    "rate": "5",
+    "available": "10",
+    "category": "darknight",
+    "description": "Superhero mani e Dc"
+  },
+  {
+    "toy_name": "Martian Manhunter",
+    "seller_name": "Shahriar Bhuiyan",
+    "email": "shahriarbhuyian@gmail.com",
+    "photo_url": "https://images-na.ssl-images-amazon.com/images/I/71ZruPjJkwL._AC_UL600_SR600,600_.jpg",
+    "price": "20",
+    "rate": "4",
+    "available": "50",
+    "category": "justice",
+    "description": "Superhero mani e Dc"
+  },
+  {
+    "toy_name": "Black Canary",
+    "seller_name": "Shahriar Abir",
+    "email": "shahriarbhuiyan1@gmail.com",
+    "photo_url": "https://images-na.ssl-images-amazon.com/images/I/712KQQo4cTL._AC_UL600_SR600,600_.jpg",
+    "price": "20",
+    "rate": "5",
+    "available": "50",
+    "category": "darknight",
+    "description": "Superhero mani e Dc"
+  },
+  {
+    "toy_name": "Hawkgirl",
+    "seller_name": "Shahriar Bhuiyan",
+    "email": "shahriarbhuyian@gmail.com",
+    "photo_url": "https://media.entertainmentearth.com/assets/images/7753cbe76dc544528b067a02b63b6b53lg.jpg",
+    "price": "20",
+    "rate": "4",
+    "available": "50",
+    "category": "justice",
+    "description": "Superhero mani e Dc"
+  },
+  {
+    "toy_name": "Atom",
+    "seller_name": "Shahriar Abir",
+    "email": "shahriarbhuiyan1@gmail.com",
+    "photo_url": "https://bbts1.azureedge.net/images/p/full/2022/08/7bd07445-376e-4d02-86a2-c1d13ca191d7.jpg",
+    "price": "20",
+    "rate": "4",
+    "available": "50",
+    "category": "magic",
+    "description": "Superhero mani e Dc"
+  },
+  {
+    "toy_name": "Zatanna",
+    "seller_name": "Shahriar Bhuiyan",
+    "email": "shahriarbhuyian@gmail.com",
+    "photo_url": "https://images-na.ssl-images-amazon.com/images/I/41nYUa2amWL._AC_UL600_SR600,600_.jpg",
+    "price": "20",
+    "rate": "4",
+    "available": "50",
+    "category": "magic",
+    "description": "Superhero mani e Dc"
+  },
+  {
+    "toy_name": "The question",
+    "seller_name": "Shahriar Bhuiyan",
+    "email": "shahriarbhuyian@gmail.com",
+    "photo_url": "https://media.entertainmentearth.com/assets/images/82631a87d1704578bf4009d5dd500570lg.jpg",
+    "price": "20",
+    "rate": "4",
+    "available": "50",
+    "category": "magic",
+    "description": "Superhero mani e Dc"
+  },
+  {
+    "toy_name": "Mister Miracle",
+    "seller_name": "Shahriar Bhuiyan",
+    "email": "shahriarbhuyian@gmail.com",
+    "photo_url": "https://media.entertainmentearth.com/assets/images/fa3483a9391e4c179e0c8f7542d0904clg.jpg",
+    "price": "20",
+    "rate": "5",
+    "available": "50",
+    "category": "magic",
+    "description": "Superhero mani e Dc"
+  },
+  {
+    "toy_name": "The Spectre",
+    "seller_name": "Shahriar Bhuiyan",
+    "email": "shahriarbhuyian@gmail.com",
+    "photo_url": "https://m.media-amazon.com/images/I/61Bktm+a2VL._AC_SL1363_.jpg",
+    "price": "20",
+    "rate": "5",
+    "available": "50",
+    "category": "magic",
+    "description": "Superhero mani e Dc"
+  }
+]
