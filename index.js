@@ -1,9 +1,10 @@
 const express = require("express");
 const app = express();
+require("dotenv").config();
 const cors = require("cors");
 app.use(cors());
 app.use(express.json());
-const port = 3000;
+const port = process.env.PORT || 3000;
 
 const { MongoClient, ServerApiVersion, ObjectId } = require("mongodb");
 const uri =
@@ -21,7 +22,7 @@ const client = new MongoClient(uri, {
 async function run() {
   try {
     // Connect the client to the server	(optional starting in v4.7)
-    await client.connect();
+    // await client.connect();
     const Collection = client.db("dctoys").collection("toys");
     const indexKeys = { name: 1 };
     const indexOptions = { name: "name" };
@@ -76,7 +77,7 @@ async function run() {
       const result = await Collection.updateOne(filter, updatedDoc);
       res.send(result);
     });
-    // for adding  toy 
+    // for adding  toy
     app.post("/addtoy", async (req, res) => {
       const toy = req.body;
       const result = await Collection.insertOne(toy);
@@ -95,7 +96,6 @@ async function run() {
       "Pinged your deployment. You successfully connected to MongoDB!"
     );
   } finally {
-   
     // await client.close();
   }
 }
